@@ -1,6 +1,3 @@
-CREATE DATABASE Supply ;
-
-USE Supply;
 
 SELECT * FROM supply ;
 
